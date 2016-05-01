@@ -23,7 +23,15 @@ public class CustomerTest {
 
     @Test
     public void statement() throws Exception {
-
+        Customer myCustomer = new Customer("Customer Name");
+        Movie myMovie = new Movie("Movie Title",1);
+        Rental myRental = new Rental(myMovie,1);
+        myCustomer.addRental(myRental);
+        Assert.assertEquals("Rental Record for Customer Name\n" +
+                "\tTitle\t\tDays\tAmount\n" +
+                "\tMovie Title\t\t1\t3.0\n" +
+                "Amount owed is 3.0\n" +
+                "You earned 1 frequent renter points", myCustomer.statement());
     }
 
 }

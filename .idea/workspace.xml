@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11b6531-30b9-4240-bc1c-83f7a88a5e71" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/output/Customer.class" afterPath="$PROJECT_DIR$/.idea/output/Customer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/output/Rental.class" afterPath="$PROJECT_DIR$/.idea/output/Rental.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Customer.java" afterPath="$PROJECT_DIR$/src/Customer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Rental.java" afterPath="$PROJECT_DIR$/src/Rental.java" />
     </list>
     <ignored path="Fowler-53732ac7430be4a1e04d41a1eb8f68d1af138253.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,13 +32,11 @@
       <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            <state relative-caret-position="610">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               <folding>
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#1680#1681#0" expanded="true" />
-                <element signature="e#1722#1723#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -644,6 +644,12 @@
     <history-entry file="All_in_Fowler_Refactoring - 2016.05.01 at 13h 22m 31s.xml">
       <configuration name="All in Fowler Refactoring" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Fowler_Refactoring - 2016.05.01 at 13h 36m 39s.xml">
+      <configuration name="All in Fowler Refactoring" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Fowler_Refactoring - 2016.05.01 at 13h 38m 27s.xml">
+      <configuration name="All in Fowler Refactoring" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CustomerTest - 2016.05.01 at 13h 07m 11s.xml">
       <configuration name="CustomerTest" configurationId="JUnit" />
     </history-entry>
@@ -718,8 +724,6 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -784,8 +788,6 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -827,8 +829,6 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -983,13 +983,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        <state relative-caret-position="610">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>
